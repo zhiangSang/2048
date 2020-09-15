@@ -1,3 +1,5 @@
+//main function
+
 var board = new Array();
 var score = 0;
 var hasConflicted = new Array();
